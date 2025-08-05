@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(243, 247, 14);
+    color: rgb(58, 14, 255);
+    font-size:20px;
+
+}
+.KJ{
+    color: red;
+}
+table{
+    border-collapse: collapse
+    ;
+    border: 3px solid rebeccapurple;
+}
+h1{
+    text-align: center;
+    
+}
+nav{
+    text-align: center;
+}
+nav a{
+    margin: 20px;
+    text-decoration: none;
+    border: 3px solid rebeccapurple;
+    padding: 5px;
+    background-color:rgb(250, 248, 246) ;
+}
+.f{
+     background-color: rgb(250, 248, 246);
+     font-size: 25px;
+}
